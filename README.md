@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **agentpx/agentpx** Where am I? Who am I? Am I? I?
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... wawlab.net
 - 😄 Pronouns: ... He
 - ⚡ Fun fact: ... Pinoy
--->

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**agentpx/agentpx** Where am I? Who am I? Am I? I?
+**agentpx** Where am I? Who am I? Am I? I?
 
 Here are some ideas to get you started:
 
